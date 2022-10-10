@@ -2,18 +2,7 @@ export const WorkHistoryPage = () => {
   return (
     <main className="px-3">
       <div className="row mb-4 align-items-center">
-      <div className="col-md-4 col-sm-12">
-        <div id="simple-list-example" className="d-flex flex-column gap-2 simple-list-example-scrollspy text-center">
-          <a className="p-1 rounded bg-light link-dark text-decoration-none" href="#simple-list-item-1">FullStack Labs</a>
-          <a className="p-1 rounded bg-light link-dark text-decoration-none" href="#simple-list-item-2">Westmount Solutions</a>
-          <a className="p-1 rounded bg-light link-dark text-decoration-none" href="#simple-list-item-3">Technological University of Chihuahua (UTCH)</a>
-          <a className="p-1 rounded bg-light link-dark text-decoration-none" href="#simple-list-item-4">Pegachisa Del Norte S.A. De C.V.</a>
-          <a className="p-1 rounded bg-light link-dark text-decoration-none" href="#simple-list-item-5">Punto Chihuahua S.A. De C.V.</a>
-        </div>
-      </div>
-      <div className="col-md-8 col-sm-12 overflow-auto mt-2" style={{
-        height: "500px"
-      }}>
+      <div className="col-md-12 overflow-auto mt-2">
         <div data-bs-spy="scroll" data-bs-target="#simple-list-example" data-bs-offset="0" data-bs-smooth-scroll="true" className="scrollspy-example" tabIndex="0">
           <h4 id="simple-list-item-1">Senior Software Developer / Shopify Developer</h4>
           <span className="badge text-bg-primary">FullStack Labs</span>
