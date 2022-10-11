@@ -40,8 +40,8 @@ export const WorkHistoryPage = () => {
           <span className="badge text-bg-primary">UTCH</span>
           <br />
           <span className="badge text-bg-secondary">August 2017 - December 2018</span>
-          <p>I implemented the base to publish relevant information about the university and the ability to modified, also, it was required to manage different sites on just one place.
-            <br/>To complete the project, I implemented WordPress Multisites on an Apache server, and modifing the defual theme with PHP and Javascript.</p>
+          <p>I implemented the base to publish relevant information about the university and the ability to modify it. Also, it was required to manage different sites in just one place.
+            <br/>To complete the project, I implemented WordPress Multisites on an Apache server, and modified the default theme with PHP and JavaScript.</p>
           <b>Techs:</b>
           <div className="d-flex justify-content-center align-items-center mb-2 flex-wrap">
             <span className="badge text-bg-info m-1">JavaScript</span>
