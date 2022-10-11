@@ -71,6 +71,8 @@ export const TechSkillsPage = () => {
                     <h3><span className="badge bg-info m-1">Bootstrap</span></h3>
                     <h3><span className="badge bg-info m-1">REST API</span></h3>
                     <h3><span className="badge bg-info m-1">Vite</span></h3>
+                    <h3><span className="badge bg-info m-1">Android Studio</span></h3>
+                    <h3><span className="badge bg-info m-1">Java</span></h3>
                 </div>
             </div>
         </div>
